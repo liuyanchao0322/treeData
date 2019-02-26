@@ -9,6 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+/** <#注释#>*/
+/**
+ <#Description#>
+ */
+//@property (nonatomic, copy) NSString *<#name#>;
 
 
 @end
